@@ -19,7 +19,7 @@ results:
       unexpected_pass: 0
       expected_fail: 18
       expected_skip: 8
-      expected_pass: 198
+      expected_pass: 197
 
     pass:
       - go.mongodb.org/mongo-driver/mongo/TestClient/
@@ -74,7 +74,7 @@ results:
       unexpected_pass: 0
       expected_fail: 0
       expected_skip: 8
-      expected_pass: 216
+      expected_pass: 215
 
     skip: # shared with ferretdb
       # needs replica set
